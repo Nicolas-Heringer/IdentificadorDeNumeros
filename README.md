@@ -5,8 +5,6 @@ O código precisa apenas dos arquivos: "identificador_pygame.py" e "meu_modelo.h
 
 O arquivo "tf_net.py" pode ser usado para treinar novamente a rede a partir de dados coletados no mnist:
 
-![image](https://github.com/Nicolas-Heringer/IdentificadorDeNumeros/assets/87998541/3f4baeb4-c185-4901-8eb7-0f104ad4aa72)
-
 Ao executar "tf_net.py" o arquivo "meu_modelo.h5" é alterado automaticamente.
 
 Ao executar "identificador_pygame.py" uma janela pygame é aberta:

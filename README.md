@@ -11,4 +11,4 @@ Ao executar "tf_net.py" o arquivo "meu_modelo.h5" é alterado automaticamente.
 
 Ao executar "identificador_pygame.py" uma janela pygame é aberta:
 
-![Gravar_identificador_pygame py_20240511195924](https://github.com/Nicolas-Heringer/IdentificadorDeNumeros/assets/87998541/d753f5a3-2f76-4994-8328-97f8978768ae)
+![Gravar_identificador_pygame py_20240511200140](https://github.com/Nicolas-Heringer/IdentificadorDeNumeros/assets/87998541/97bbb996-ae16-4d8e-945d-7e7f0ef9bb28)
